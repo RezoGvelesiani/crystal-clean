@@ -1,0 +1,5 @@
+{
+  "name": "armazi-hud",
+  "owner": { "name": "RezoGvelesiani" },
+  "plugins": [{ "name": "armazi-hud", "source": "./" }]
+}

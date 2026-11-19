@@ -1,0 +1,1 @@
+{ "name": "armazi-hud", "version": "0.1.0", "description": "Live activity HUD above the prompt: per-tool counts, active chip, compaction timer, details view. Port of Caqtus/armazi-hud.", "types": "./types/index.d.ts" }
