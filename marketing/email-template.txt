@@ -1,0 +1,56 @@
+მეილის შაბლონი სასტუმროებისთვის
+==================================
+([ფრჩხილებში] ჩაწერე სასტუმროს სახელი და მენეჯერის სახელი. თითოეული მეილი ცალკე გაგზავნე, არა ბევრ მისამართზე ერთად.)
+
+თემა:
+[სასტუმროს სახელი] — თეთრეულის რეცხვა + უფასო საცდელი პარტია
+
+ტექსტი:
+გამარჯობა, ბატონო/ქალბატონო [სახელი],
+
+გწერთ Crystal Clean-იდან — თბილისის პროფესიონალური სამრეცხაოდან. ამჟამად 7 სასტუმროს ვემსახურებით.
+
+[სასტუმროს სახელი]-ს შეგვიძლია შევთავაზოთ თეთრეულის სრული მომსახურება: წაღება, რეცხვა ECOLAB-ის საშუალებებით, გაშრობა, დაუთოება, დაკეცვა, მარკირებული შეფუთვა და დაბრუნება — თქვენს გრაფიკზე მორგებით, უფასო ტრანსპორტირებით.
+
+რომ ხარისხი რისკის გარეშე ნახოთ, პირველ საცდელ პარტიას უფასოდ გავრეცხავთ.
+
+დეტალური შეთავაზება თანდართულ PDF-შია. 10 წუთით შეგხვდეთ ამ კვირაში, ან დაგირეკოთ თქვენთვის მოსახერხებელ დროს?
+
+პატივისცემით,
+[შენი სახელი]
+Crystal Clean Tbilisi
++995 500 500 256 (ზარი და WhatsApp)
+crystalcleantbilisi@gmail.com
+https://rezogvelesiani.github.io/crystal-clean/
+
+თუ არ გსურთ ჩვენგან წერილების მიღება, უბრალოდ გვიპასუხეთ — მეტს აღარ მოგწერთ.
+
+
+მეორე წერილი (თუ 3–4 დღეში არ უპასუხეს):
+-------------------------------------------
+თემა: Re: [სასტუმროს სახელი] — თეთრეულის რეცხვა + უფასო საცდელი პარტია
+
+გამარჯობა, [სახელი],
+მოკლედ გადმოგიმეორებთ: მზად ვართ თქვენი თეთრეულის საცდელი პარტია უფასოდ გავრეცხოთ, რომ ხარისხი თავად ნახოთ.
+როდის იქნება მოსახერხებელი 5-წუთიანი ზარი?
+[შენი სახელი], Crystal Clean · +995 500 500 256
+
+
+ინგლისური ვერსია (უცხოელი მენეჯერებისთვის):
+---------------------------------------------
+Subject: Linen laundry for [Hotel name] — free trial batch
+
+Dear [Name],
+
+I'm writing from Crystal Clean, a professional laundry in Tbilisi currently serving 7 hotels.
+We offer a full linen service for [Hotel name]: pick-up, washing with ECOLAB products, drying, ironing, folding, labelled packing and delivery — on your schedule, with free transport.
+
+To let you see the quality risk-free, we'll wash your first trial batch for free.
+Our offer is attached (in Georgian). Could we meet for 10 minutes this week, or call you at a convenient time?
+
+Best regards,
+[Your name]
+Crystal Clean Tbilisi · +995 500 500 256 (call / WhatsApp)
+crystalcleantbilisi@gmail.com
+
+If you'd rather not hear from us, just reply and we won't write again.
