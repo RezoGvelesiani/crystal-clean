@@ -53,7 +53,7 @@ function textBody(hotel) {
   return [
     'გამარჯობა,',
     '',
-    'გწერთ Crystal Clean-იდან — თბილისის პროფესიონალური სამრეცხაოდან. ამჟამად 7 სასტუმროს ვემსახურებით.',
+    'გწერთ Crystal Clean-იდან — თბილისის პროფესიონალური სამრეცხაოდან.',
     '',
     h + ' შეგვიძლია შევთავაზოთ თეთრეულის სრული მომსახურება: წაღება, რეცხვა ECOLAB-ის საშუალებებით, ' +
       'გაშრობა, დაუთოება, დაკეცვა, მარკირებული შეფუთვა და დაბრუნება — თქვენს გრაფიკზე, უფასო ტრანსპორტირებით.',
@@ -85,14 +85,14 @@ function htmlBody(hotel) {
        style="display:block;width:100%;height:auto;border:0">
   <div style="padding:28px 28px 8px;font-size:15.5px;line-height:1.65">
    <p style="margin:0 0 14px">გამარჯობა,</p>
-   <p style="margin:0 0 14px">გწერთ <b>Crystal Clean</b>-იდან — თბილისის პროფესიონალური სამრეცხაოდან. ამჟამად <b>7 სასტუმროს</b> ვემსახურებით.</p>
+   <p style="margin:0 0 14px">გწერთ <b>Crystal Clean</b>-იდან — თბილისის პროფესიონალური სამრეცხაოდან.</p>
    <p style="margin:0 0 14px">${h} შეგვიძლია შევთავაზოთ თეთრეულის სრული მომსახურება:</p>
    <table role="presentation" style="margin:0 0 16px;border-collapse:collapse;font-size:15px">
     ${['წაღება და მიტანა — <b>უფასოდ</b>, თქვენს გრაფიკზე',
        'რეცხვა <b>ECOLAB</b>-ის პროფესიონალური საშუალებებით',
        'გაშრობა, დაუთოება სამრეწველო უთოზე, დაკეცვა',
        'მარკირებული შეფუთვა — ტიპი და რაოდენობა ყველა შეფუთვაზე',
-       'დღიური სიმძლავრე <b>1 500 კგ</b> — სეზონის პიკშიც დროულად']
+       'სწრაფი რეაგირება ზარზე და WhatsApp-ზე']
       .map(t => `<tr><td style="padding:3px 10px 3px 0;color:#b8923a;vertical-align:top">✔</td><td style="padding:3px 0">${t}</td></tr>`).join('')}
    </table>
    <div style="margin:0 0 18px;padding:16px 18px;border-radius:12px;background:linear-gradient(135deg,#f6e3a8,#d8b25a);color:#2a1f05">

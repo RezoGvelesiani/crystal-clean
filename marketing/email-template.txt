@@ -8,7 +8,7 @@
 ტექსტი:
 გამარჯობა, ბატონო/ქალბატონო [სახელი],
 
-გწერთ Crystal Clean-იდან — თბილისის პროფესიონალური სამრეცხაოდან. ამჟამად 7 სასტუმროს ვემსახურებით.
+გწერთ Crystal Clean-იდან — თბილისის პროფესიონალური სამრეცხაოდან.
 
 [სასტუმროს სახელი]-ს შეგვიძლია შევთავაზოთ თეთრეულის სრული მომსახურება: წაღება, რეცხვა ECOLAB-ის საშუალებებით, გაშრობა, დაუთოება, დაკეცვა, მარკირებული შეფუთვა და დაბრუნება — თქვენს გრაფიკზე მორგებით, უფასო ტრანსპორტირებით.
 
@@ -42,7 +42,7 @@ Subject: Linen laundry for [Hotel name] — free trial batch
 
 Dear [Name],
 
-I'm writing from Crystal Clean, a professional laundry in Tbilisi currently serving 7 hotels.
+I'm writing from Crystal Clean, a professional laundry in Tbilisi.
 We offer a full linen service for [Hotel name]: pick-up, washing with ECOLAB products, drying, ironing, folding, labelled packing and delivery — on your schedule, with free transport.
 
 To let you see the quality risk-free, we'll wash your first trial batch for free.
