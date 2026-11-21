@@ -432,6 +432,30 @@ footer{background:var(--teal-dd);color:#b2d6d0;font-size:14px}
   .foot-bottom{padding-bottom:calc(20px + var(--callbar) + env(safe-area-inset-bottom))}
   html{scroll-padding-bottom:calc(var(--callbar) + 16px)}
 }
+
+/* former dark bands now use the laundry wall colour too, with dark text */
+.process,.cinfo,footer{background:linear-gradient(165deg,#9ed6d0,#8eccc6 55%,#7dbfb9);color:var(--ink)}
+.on-dark .eyebrow{color:var(--teal-dd)}
+.on-dark .eyebrow::before{background:var(--gold)}
+.process h2,.cinfo h2{color:var(--teal-dd)}
+.process .head p,.cinfo p,.steps p,.note{color:#1f4744}
+.steps::before{background:rgba(184,146,58,.7)}
+.steps li::before{background:#fff;border-color:var(--gold);color:var(--teal-dd);box-shadow:0 6px 14px -8px rgba(14,59,57,.5)}
+.steps h3{color:var(--teal-dd)}
+.open-intro{color:var(--teal-dd);border-color:rgba(14,59,57,.3);background:rgba(255,255,255,.45)}
+.open-intro:hover{background:rgba(255,255,255,.7)}
+.clist a{background:rgba(255,255,255,.5);border-color:rgba(14,59,57,.14);color:var(--ink)}
+.clist a:hover{background:rgba(255,255,255,.8)}
+.clist svg{stroke:var(--teal-d)}
+.clist small{color:#3d625e}
+footer{color:#1f4744}
+.foot-brand .brand{color:var(--teal-dd)}
+.foot-brand .brand small{color:var(--teal-d)}
+.foot h2{color:var(--teal-dd)}
+.foot a:hover{color:var(--teal-dd);text-decoration:underline}
+.social a{border-color:rgba(14,59,57,.3);color:var(--teal-dd)}
+.social a:hover{border-color:var(--teal-dd);background:rgba(255,255,255,.4)}
+.foot-bottom{border-top-color:rgba(14,59,57,.15);color:#1f4744}
 </style>
 </head>
 <body id="top">
